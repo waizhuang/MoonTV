@@ -10,7 +10,7 @@ compatibility_flags = ["nodejs_compat"]
 [[d1_databases]]
 binding = "DB"              # Worker 代码中使用的变量名
 database_name = "moontv"    # D1 数据库名称
-database_id = ""            # 首次部署可不填，部署后会自动生成
+database_id = "1fdc2161-363c-40cc-8a5d-57cfe446e393"            # 首次部署可不填，部署后会自动生成
 
 # 环境变量（普通变量）
 [vars]
